@@ -7,3 +7,12 @@ O sistema controla a abertura e o fechamento de um portão automático de uma re
 1. **Timer:** Controla o tempo de abertura do portão, garantindo que ele permaneça aberto por um período predeterminado antes de fechar automaticamente. O temporizador define, por exemplo, 10 segundos de abertura antes de acionar o fechamento.
 2. **Interrupções Externas:** Um botão de emergência externo gera uma interrupção que para o portão imediatamente, interrompendo qualquer movimento, seja de abertura ou fechamento, garantindo segurança em situações emergenciais.
 3. **UART:** Envia informações ao usuário sobre o status do portão. Quando o portão abre, fecha ou é interrompido, o sistema envia uma mensagem ao usuário via UART, que pode ser visualizada em um monitor serial ou aplicativo.
+
+---
+
+#### 👥 Membros
+- Bruna Soares Magalhães
+- Gabriel de Souza Pivoto
+- Victor Arruda Gorgal
+- **Monitor:** Marcos Henrique Barbosa Pereira
+###### E209-L3
